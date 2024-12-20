@@ -1,0 +1,34 @@
+.intro-header {
+	padding-top: 50px; 
+	color:#15ff00;
+	text-overflow:ellipsis;
+	background: url(../img/image3.jpg) no-repeat center center;
+	background-size: cover;
+	text-align: center;
+}
+
+tr th{
+	border:1px solid #15ff00;
+	padding: 5px;
+	text-align:center;
+}
+
+table{
+    border:5px solid #383838;
+	margin: 0 auto;
+	font-size: 22px;
+	width:100%;
+	
+}
+
+.vingt{
+	width:18%;
+}
+
+img{
+	width:100%
+}
+
+.xl{
+	width:45%
+}

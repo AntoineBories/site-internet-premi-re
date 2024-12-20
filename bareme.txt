@@ -1,0 +1,8 @@
+Bareme : 
+
+javasrcipt commenté
+formulaire
+tableau/liste 
+css propre 
+html propre
+esthetique sur le code et le site 

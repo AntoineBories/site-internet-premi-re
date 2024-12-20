@@ -1,0 +1,74 @@
+.intro-header {
+	padding-top: 50px; 
+	color:#15ff00;
+	text-overflow:ellipsis;
+	background: url(../img/image2.webp) no-repeat center center;
+	background-size: cover;
+	text-align: center;
+}
+
+tr th{
+	border:1px solid #15ff00;
+	padding: 5px;
+	text-align:center;
+}
+
+table{
+    border:5px solid #414141;
+	margin: 0 auto;
+	font-size: 22px;
+	width:100%;
+	
+}
+
+.dix{
+	width:20%;
+}
+
+.tier{
+	width:30%;
+}
+
+.choice{
+	width:50px;
+}
+
+.choix{
+	border:10px solid #414141;
+	border-radius: 10px;
+	margin:0px;
+	float:left;
+	width:100%;
+	padding:50px;
+	text-align: center;
+}
+
+.submit{
+	width: 60%;
+	height:10%;
+	background-color: #414141;
+	border:0px;
+	border-radius: 5px;
+	transition: 0.5s ease;
+}
+
+.submit:hover{
+	background-color: #15ff00;
+	color: #414141;
+	letter-spacing:3px;
+}
+
+.armor{
+	width:20%
+}
+
+.res{
+	background-color:#383838;
+	border:0px;
+	width:30px;
+}
+
+.armor_pick{
+	margin-left: 40%;
+	width:250px
+}
